@@ -1,0 +1,31 @@
+[{
+  "Retail":"High Street Phoenix",
+  "Population_Catchment":"1,930,097",
+  "Population_Probabilistic":"2,125,199"
+},
+{
+  "Retail":"High Street 2",
+  "Population_Catchment":"1,667,959",
+  "Population_Probabilistic":"268,554"
+},
+{
+  "Retail":"Korum",
+  "Population_Catchment":"212,938",
+  "Population_Probabilistic":"482,048"
+},
+{
+  "Retail":"Oberoi Mall",
+  "Population_Catchment":"1,643,863",
+  "Population_Probabilistic":"2,351,932"
+},
+{
+  "Retail":"Vishi Lodha",
+  "Population_Catchment":"212,130",
+  "Population_Probabilistic":"715,990"
+},
+{
+  "Retail":"snfls",
+  "Population_Catchment":"252,190",
+  "Population_Probabilistic":"764,990"
+}
+]
